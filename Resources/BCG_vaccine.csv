@@ -1,0 +1,33 @@
+Country / Region,Antigen,Data source,2012,2011,2010,2009,2008
+Albania,BCG,WUENIC,96%,97%,99%,97%,99%
+Armenia,BCG,WUENIC,96%,96%,95%,99%,98%
+Azerbaijan,BCG,WUENIC,98%,99%,98%,95%,92%
+Belarus,BCG,WUENIC,98%,99%,99%,98%,98%
+Bosnia and Herzegovina,BCG,WUENIC,96%,94%,96%,97%,96%
+Bulgaria,BCG,WUENIC,97%,98%,98%,98%,98%
+Croatia,BCG,WUENIC,99%,99%,99%,99%,99%
+Czechia,BCG,WUENIC,,,,98%,99%
+Estonia,BCG,WUENIC,97%,99%,97%,97%,98%
+Georgia,BCG,WUENIC,95%,96%,96%,95%,95%
+Hungary,BCG,WUENIC,99%,99%,99%,99%,99%
+Ireland,BCG,WUENIC,42%,41%,30%,30%,34%
+Kazakhstan,BCG,WUENIC,95%,96%,96%,96%,97%
+Kyrgyzstan,BCG,WUENIC,98%,98%,98%,98%,99%
+Latvia,BCG,WUENIC,94%,93%,92%,96%,95%
+Lithuania,BCG,WUENIC,98%,98%,99%,99%,99%
+Monaco,BCG,WUENIC,89%,89%,89%,89%,89%
+Montenegro,BCG,WUENIC,95%,97%,95%,95%,98%
+North Macedonia,BCG,WUENIC,95%,94%,96%,98%,94%
+Poland,BCG,WUENIC,94%,94%,93%,94%,93%
+Portugal,BCG,WUENIC,99%,97%,96%,98%,98%
+Republic of Moldova,BCG,WUENIC,99%,98%,98%,96%,98%
+Romania,BCG,WUENIC,99%,99%,99%,99%,99%
+Russian Federation,BCG,WUENIC,96%,95%,96%,96%,96%
+Serbia,BCG,WUENIC,98%,99%,99%,98%,99%
+Slovakia,BCG,WUENIC,90%,97%,98%,97%,98%
+Sweden,BCG,WUENIC,24%,23%,23%,21%,23%
+Tajikistan,BCG,WUENIC,97%,97%,98%,82%,89%
+Turkmenistan,BCG,WUENIC,99%,98%,99%,99%,99%
+Türkiye,BCG,WUENIC,96%,96%,97%,96%,96%
+Ukraine,BCG,WUENIC,95%,90%,92%,94%,95%
+Uzbekistan,BCG,WUENIC,99%,99%,99%,99%,96%

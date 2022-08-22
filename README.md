@@ -17,8 +17,11 @@ We loaded the 2 CSV files into Pandas dataframes.
 * Transform:	
 
 a.	From the first DataFrame (TB Rates), we dropped any unwanted columns ("National data", "Report type", "ASR", "Confirmed cases"). 
+
 b.	We then renamed the columns to be more intuitive & compatible with uploading into PostgreSQL (i.e., ensure there are no spaces between column names). We did this by creating a dictionary with the old column names as the keys and the new column names as the values, and then passed this through the .rename() function.
+
 c.	From the second DataFrame (BCG_Vaccine), we again dropped the columns that we did not need, but this time we did this by selecting the columns we wanted only, and this discarded the rest.
+
 d. We renamed the 'Country/Region' column & dropped any duplicates
 
 

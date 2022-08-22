@@ -25,7 +25,7 @@ c.	From the second DataFrame (BCG_Vaccine), we again dropped the columns that we
 d. We renamed the 'Country/Region' column & dropped any duplicates
 
 
-Load:
+* Load:
 * Within PostgreSQL, we created 2 tables ("reported_cases" & "immunisation"). We then used SQLAlchemy to create an engine so we could connect to the database & load the data into PostgreSQL. 
 
 

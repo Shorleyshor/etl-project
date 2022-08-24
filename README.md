@@ -2,8 +2,8 @@
 
 This project involves all 3 parts of the ETL process: Extract, Transform & Load.
 
-The data we have chosen to use is on the reported TB cases in the EU/EEA, 
-from 2008-2012 and the immunization coverage estimates by country in EU/EEA.
+The data we have chosen to use is on the reported tuberculosis cases  and the 
+immunization coverage estimates by country in EU/EEA from 2008-2012.
 
 Our data sources were as follows:
 

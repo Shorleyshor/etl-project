@@ -7,10 +7,13 @@ from 2008-2012 and the immunization coverage estimates by country in EU/EEA.
 
 Our data sources were as follows:
 
-https://www.ecdc.europa.eu/en/publications-data/reported-tb-cases-eueea-2008-2012
+European Centre for Disease Prevention and Control
+(https://www.ecdc.europa.eu/en/publications-data/reported-tb-cases-eueea-2008-2012)
 
 
-http://immunizationdata.who.int/pages/coverage/bcg.html?CODE=eur
+World Health Organisation
+(http://immunizationdata.who.int/pages/coverage/bcg.html?CODE=eur)
+
 
 Both datasets were in CSV format, and we have chosen to use Pandas to Transform the data 
 and load it into PostgreSQL. We have chosen a relational database (POSTGRESQL) because 

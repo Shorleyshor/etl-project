@@ -29,5 +29,3 @@ CREATE TABLE IF NOT EXISTS public.immunisation
     );
     
     select * from reported_cases
-    
-    
